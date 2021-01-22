@@ -10,5 +10,6 @@ Instructions to re-create.
 8. (inside folder type) npm i -g expo-cli
 9. (inside folder type) yarn add react-native-web@~0.11 react-dom
 10. (inside folder type) expo start
-11. (inside folder type) w  
-10. (inside folder type) i
+11. if "can't find react" go to app.js and paste "import React from 'react';" at the top of page. 
+12. (inside folder type) w  
+13. (inside folder type) i
